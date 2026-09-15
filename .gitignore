@@ -1,0 +1,6 @@
+node_modules/
+automotive.db
+automotive.db-journal
+.env
+*.log
+.DS_Store
