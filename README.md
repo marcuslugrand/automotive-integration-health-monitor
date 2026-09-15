@@ -6,6 +6,12 @@ A Node.js and SQL application that simulates how a Technical Account Manager can
 
 The Automotive Integration Health Monitor was built as a hands-on project to strengthen my experience with Node.js, JavaScript, SQL, REST APIs, and technical account management workflows.
 
+## API Example
+
+The application exposes account-level integration health through a REST API.
+
+![Account Health API](images/account-health-api.png)
+
 ## Technologies
 
 - Node.js
