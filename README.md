@@ -211,13 +211,13 @@ npm install
 ```
 3. Import the synthetic dataset
 ```
-node import-data.js
+npm import-data
 ```
 This creates and populates the local SQLite database.
 
 4. Start the application
 ```
-node app.js
+npm start
 ```
 The server will run locally on port 3000.
 
